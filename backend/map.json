@@ -1,0 +1,218 @@
+[
+  {
+    "type": "police",
+    "name": "Sitabuldi Police Station",
+    "coords": [21.1458, 79.0882],
+    "address": "Residency Road, Sitabuldi, Nagpur, Maharashtra 440012",
+    "phone": "0712-2560588",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Sadar Police Station",
+    "coords": [21.1620, 79.0840],
+    "address": "Mount Road, Sadar, Nagpur, Maharashtra 440001",
+    "phone": "0712-2560577",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Ambazari Police Station",
+    "coords": [21.1410, 79.0490],
+    "address": "Amravati Road, Ravi Nagar, Nagpur, Maharashtra 440033",
+    "phone": "0712-2566830",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Dhantoli Police Station",
+    "coords": [21.1330, 79.0820],
+    "address": "Wardha Road, Dhantoli, Nagpur, Maharashtra 440012",
+    "phone": "0712-2422202",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Cyber Crime Police Station",
+    "coords": [21.1565, 79.0760],
+    "address": "Police Bhavan, Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2584377",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Sonegaon Police Station",
+    "coords": [21.0980, 79.0640],
+    "address": "Wardha Road, Near Airport, Sonegaon, Nagpur, Maharashtra 440025",
+    "phone": "0712-2285002",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "MIDC Police Station",
+    "coords": [21.1150, 79.0280],
+    "address": "Hingna Road, MIDC, Nagpur, Maharashtra 440016",
+    "phone": "0712-2376700",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Lakadganj Police Station",
+    "coords": [21.1535, 79.1150],
+    "address": "CA Road, Lakadganj, Nagpur, Maharashtra 440008",
+    "phone": "0712-2766466",
+    "hours": "24/7"
+  },
+  {
+    "type": "police",
+    "name": "Kotwali Police Station",
+    "coords": [21.1450, 79.0980],
+    "address": "Mahal, Nagpur, Maharashtra 440032",
+    "phone": "0712-2722333",
+    "hours": "24/7"
+  },
+  {
+    "type": "court",
+    "name": "Bombay High Court - Nagpur Bench",
+    "coords": [21.1539, 79.0733],
+    "address": "Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2562600",
+    "hours": "10:30 AM - 05:00 PM"
+  },
+  {
+    "type": "court",
+    "name": "District and Sessions Court",
+    "coords": [21.1520, 79.0715],
+    "address": "Nyay Mandir, Akashwani Chowk, Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2531989",
+    "hours": "10:30 AM - 05:30 PM"
+  },
+  {
+    "type": "court",
+    "name": "Family Court Nagpur",
+    "coords": [21.1545, 79.0720],
+    "address": "1st Floor, Suyog Building, GPO Chowk, Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2548923",
+    "hours": "10:30 AM - 05:30 PM"
+  },
+  {
+    "type": "court",
+    "name": "District Consumer Disputes Redressal Commission",
+    "coords": [21.1550, 79.0740],
+    "address": "Administrative Building No. 1, 5th Floor, Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2562259",
+    "hours": "10:30 AM - 05:30 PM"
+  },
+  {
+    "type": "court",
+    "name": "Industrial and Labour Court",
+    "coords": [21.1530, 79.0725],
+    "address": "New Secretariate Building, Civil Lines, Nagpur, Maharashtra 440001",
+    "phone": "0712-2552593",
+    "hours": "10:30 AM - 05:30 PM"
+  },
+  {
+    "type": "hospital",
+    "name": "Government Medical College and Hospital (GMCH)",
+    "coords": [21.1305, 79.0960],
+    "address": "Medical Square, Hanuman Nagar, Nagpur, Maharashtra 440003",
+    "phone": "0712-2744671",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Indira Gandhi Government Medical College (Mayo Hospital)",
+    "coords": [21.1525, 79.0930],
+    "address": "Central Avenue, Mominpura, Nagpur, Maharashtra 440018",
+    "phone": "0712-2725274",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "AIIMS Nagpur",
+    "coords": [21.0667, 79.0372],
+    "address": "Plot No. 2, Sector 20, MIHAN, Nagpur, Maharashtra 441108",
+    "phone": "0712-2352022",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Kingsway Hospitals",
+    "coords": [21.1480, 79.0840],
+    "address": "44, Kingsway Road, Near Kasturchand Park, Nagpur, Maharashtra 440001",
+    "phone": "0712-6789100",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Wockhardt Hospitals",
+    "coords": [21.1340, 79.0680],
+    "address": "1643, North Ambazari Road, Shankar Nagar, Nagpur, Maharashtra 440033",
+    "phone": "0712-6624400",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Alexis Multispeciality Hospital",
+    "coords": [21.1820, 79.0720],
+    "address": "Survey No. 232, Mankapur, Koradi Road, Nagpur, Maharashtra 440030",
+    "phone": "0712-7120000",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Care Hospital",
+    "coords": [21.1400, 79.0800],
+    "address": "3, Farmland, Panchsheel Square, Wardha Road, Nagpur, Maharashtra 440012",
+    "phone": "0712-6165656",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Getwell Hospital",
+    "coords": [21.1395, 79.0750],
+    "address": "20/1, Dr. Khare Marg, Dhantoli, Nagpur, Maharashtra 440012",
+    "phone": "0712-2422444",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Arneja Heart & Multi Speciality Hospital",
+    "coords": [21.1380, 79.0780],
+    "address": "Plot No. 123, Behind Somalwar High School, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "phone": "0712-6661800",
+    "hours": "24/7"
+  },
+  {
+    "type": "hospital",
+    "name": "Mure Memorial Hospital",
+    "coords": [21.1530, 79.0880],
+    "address": "Maharajbagh Road, Sitabuldi, Nagpur, Maharashtra 440001",
+    "phone": "0712-2522370",
+    "hours": "24/7"
+  },
+  {
+    "type": "women_support",
+    "name": "Bharosa Cell (Women Safety Wing)",
+    "coords": [21.1458, 79.0882],
+    "address": "Sitabuldi Police Station Premises, Residency Road, Nagpur, Maharashtra 440012",
+    "phone": "0712-2560200",
+    "hours": "24/7"
+  },
+  {
+    "type": "women_support",
+    "name": "Daga Memorial Government Women's Hospital",
+    "coords": [21.1470, 79.0880],
+    "address": "Gandhi Gate, Mahal, Nagpur, Maharashtra 440002",
+    "phone": "0712-2767348",
+    "hours": "24/7"
+  },
+  {
+    "type": "women_support",
+    "name": "Matru Seva Sangh (Family Counseling)",
+    "coords": [21.1300, 79.0950],
+    "address": "North Ambazari Road, Sitabuldi, Nagpur, Maharashtra 440012",
+    "phone": "0712-2522393",
+    "hours": "10:00 AM - 05:00 PM"
+  }
+]

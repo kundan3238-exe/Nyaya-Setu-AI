@@ -1,0 +1,1088 @@
+[
+  {
+    "id": 1,
+    "category": "Criminal Law",
+    "section": "IPC 302",
+    "title": "Punishment for Murder",
+    "description": "Anyone who commits murder shall face life imprisonment or death penalty depending on severity.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 2,
+    "category": "Criminal Law",
+    "section": "IPC 376",
+    "title": "Punishment for Rape",
+    "description": "Whoever commits rape faces rigorous imprisonment and fine.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 3,
+    "category": "Criminal Law",
+    "section": "IPC 420",
+    "title": "Cheating and Fraud",
+    "description": "Cheating or dishonest fraud for personal gain is punishable by imprisonment and fine.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 4,
+    "category": "Criminal Law",
+    "section": "IPC 323",
+    "title": "Voluntarily Causing Hurt",
+    "description": "Causing simple physical harm to someone is punishable by up to 1 year imprisonment or fine.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 5,
+    "category": "Criminal Law",
+    "section": "IPC 324",
+    "title": "Hurt with Dangerous Weapons",
+    "description": "Causing hurt using weapons is punishable by imprisonment and fine.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 6,
+    "category": "Criminal Law",
+    "section": "IPC 326",
+    "title": "Causing Grievous Hurt",
+    "description": "Serious injury caused intentionally is punishable with imprisonment up to 10 years.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 7,
+    "category": "Criminal Law",
+    "section": "IPC 354",
+    "title": "Outraging Modesty of a Woman",
+    "description": "Assault or force intended to outrage a woman's modesty is punishable by imprisonment.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 8,
+    "category": "Criminal Law",
+    "section": "IPC 498A",
+    "title": "Cruelty by Husband or Relatives",
+    "description": "Any physical or mental cruelty by husband or in-laws is punishable.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 9,
+    "category": "Criminal Law",
+    "section": "IPC 506",
+    "title": "Criminal Intimidation",
+    "description": "Threatening someone with harm is punishable by imprisonment or fine.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 10,
+    "category": "Criminal Law",
+    "section": "IPC 34",
+    "title": "Acts Done by Several Persons",
+    "description": "When several people commit a crime together, each is liable as if they acted alone.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 11,
+    "category": "Criminal Law",
+    "section": "IPC 307",
+    "title": "Attempt to Murder",
+    "description": "An attempt to kill someone is punishable by up to life imprisonment.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 12,
+    "category": "Criminal Law",
+    "section": "IPC 379",
+    "title": "Theft",
+    "description": "Taking someone's property without consent is punishable.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 13,
+    "category": "Criminal Law",
+    "section": "IPC 380",
+    "title": "Theft in Dwelling House",
+    "description": "Theft committed inside a house is punished more severely.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 14,
+    "category": "Criminal Law",
+    "section": "IPC 392",
+    "title": "Robbery",
+    "description": "Robbery is punishable by rigorous imprisonment.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 15,
+    "category": "Criminal Law",
+    "section": "CrPC 41",
+    "title": "Arrest Without Warrant",
+    "description": "Police can arrest without warrant in certain serious offences.",
+    "bail": null,
+    "reference": "Criminal Procedure Code, 1973"
+  },
+  {
+    "id": 16,
+    "category": "Criminal Law",
+    "section": "CrPC 154",
+    "title": "FIR Registration",
+    "description": "Police must register FIR for cognizable offences.",
+    "bail": null,
+    "reference": "Criminal Procedure Code, 1973"
+  },
+  {
+    "id": 17,
+    "category": "Criminal Law",
+    "section": "CrPC 167",
+    "title": "Judicial Custody Rules",
+    "description": "Defines how long a person can be detained before chargesheet.",
+    "bail": null,
+    "reference": "Criminal Procedure Code, 1973"
+  },
+  {
+    "id": 18,
+    "category": "Criminal Law",
+    "section": "IPC 120B",
+    "title": "Criminal Conspiracy",
+    "description": "Planning or agreeing to commit a crime is punishable.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 19,
+    "category": "Criminal Law",
+    "section": "IPC 509",
+    "title": "Insulting a Woman's Modesty",
+    "description": "Words or gestures intended to insult a woman are punishable.",
+    "bail": true,
+    "reference": "Indian Penal Code, 1860"
+  },
+  {
+    "id": 20,
+    "category": "Criminal Law",
+    "section": "IPC 295A",
+    "title": "Hurting Religious Sentiments",
+    "description": "Deliberately insulting religion is a punishable offence.",
+    "bail": false,
+    "reference": "Indian Penal Code, 1860"
+  },
+
+  {
+    "id": 21,
+    "category": "Civil Law",
+    "section": "Indian Contract Act, Section 10",
+    "title": "Valid Contracts",
+    "description": "A contract is valid if both parties agree and meet legal requirements.",
+    "bail": null,
+    "reference": "Indian Contract Act, 1872"
+  },
+  {
+    "id": 22,
+    "category": "Civil Law",
+    "section": "Indian Contract Act, Section 73",
+    "title": "Compensation for Breach",
+    "description": "A person harmed due to breach of contract can claim compensation.",
+    "bail": null,
+    "reference": "Indian Contract Act, 1872"
+  },
+  {
+    "id": 23,
+    "category": "Civil Law",
+    "section": "Specific Relief Act, Section 5",
+    "title": "Recovery of Possession",
+    "description": "You can recover property that is illegally occupied.",
+    "bail": null,
+    "reference": "Specific Relief Act, 1963"
+  },
+  {
+    "id": 24,
+    "category": "Civil Law",
+    "section": "Specific Relief Act, Section 6",
+    "title": "Quick Possession Recovery",
+    "description": "A simple process to get back possession taken without consent.",
+    "bail": null,
+    "reference": "Specific Relief Act, 1963"
+  },
+  {
+    "id": 25,
+    "category": "Civil Law",
+    "section": "CPC Order 39",
+    "title": "Temporary Injunctions",
+    "description": "Court can stop someone from harming or altering property.",
+    "bail": null,
+    "reference": "Civil Procedure Code, 1908"
+  },
+  {
+    "id": 26,
+    "category": "Civil Law",
+    "section": "CPC Section 9",
+    "title": "Civil Court Jurisdiction",
+    "description": "Civil courts can hear all suits unless barred by law.",
+    "bail": null,
+    "reference": "Civil Procedure Code, 1908"
+  },
+  {
+    "id": 27,
+    "category": "Civil Law",
+    "section": "CPC Section 80",
+    "title": "Legal Notice to Government",
+    "description": "Notice must be given before suing the government.",
+    "bail": null,
+    "reference": "Civil Procedure Code, 1908"
+  },
+  {
+    "id": 28,
+    "category": "Civil Law",
+    "section": "Limitation Act, Section 3",
+    "title": "Time Limits for Cases",
+    "description": "A case filed after legal time limits cannot be accepted.",
+    "bail": null,
+    "reference": "Limitation Act, 1963"
+  },
+  {
+    "id": 29,
+    "category": "Civil Law",
+    "section": "Indian Easements Act, Section 4",
+    "title": "Right of Easement",
+    "description": "People can have rights such as right of way through another's land.",
+    "bail": null,
+    "reference": "Easements Act, 1882"
+  },
+  {
+    "id": 30,
+    "category": "Civil Law",
+    "section": "Family Courts Act, Section 7",
+    "title": "Family Court Jurisdiction",
+    "description": "Family courts handle marriage, divorce, and custody cases.",
+    "bail": null,
+    "reference": "Family Courts Act, 1984"
+  },
+
+  {
+    "id": 31,
+    "category": "Civil Law",
+    "section": "HMA Section 13",
+    "title": "Divorce Grounds",
+    "description": "Marriage can be dissolved for reasons such as cruelty, abandonment, or adultery.",
+    "bail": null,
+    "reference": "Hindu Marriage Act, 1955"
+  },
+  {
+    "id": 32,
+    "category": "Civil Law",
+    "section": "HMA Section 24",
+    "title": "Maintenance During Case",
+    "description": "Either spouse can claim financial support during divorce proceedings.",
+    "bail": null,
+    "reference": "Hindu Marriage Act, 1955"
+  },
+  {
+    "id": 33,
+    "category": "Civil Law",
+    "section": "Hindu Succession Act Section 6",
+    "title": "Daughter's Equal Rights",
+    "description": "Daughters have equal rights in ancestral property.",
+    "bail": null,
+    "reference": "Hindu Succession Act, 1956"
+  },
+  {
+    "id": 34,
+    "category": "Civil Law",
+    "section": "Domestic Violence Act Section 3",
+    "title": "Definition of Domestic Violence",
+    "description": "Covers physical, verbal, emotional, and economic abuse.",
+    "bail": null,
+    "reference": "Protection of Women from Domestic Violence Act, 2005"
+  },
+  {
+    "id": 35,
+    "category": "Civil Law",
+    "section": "Domestic Violence Act Section 12",
+    "title": "Complaint Procedure",
+    "description": "Women can file domestic violence complaints for protection and relief.",
+    "bail": null,
+    "reference": "Protection of Women from Domestic Violence Act, 2005"
+  },
+  {
+    "id": 36,
+    "category": "Civil Law",
+    "section": "Adoption Act Section 10",
+    "title": "Eligibility for Adoption",
+    "description": "Defines who can legally adopt a child.",
+    "bail": null,
+    "reference": "Hindu Adoption and Maintenance Act, 1956"
+  },
+  {
+    "id": 37,
+    "category": "Civil Law",
+    "section": "Motor Vehicles Act Section 166",
+    "title": "Compensation for Accidents",
+    "description": "Victims of road accidents can claim compensation.",
+    "bail": null,
+    "reference": "Motor Vehicles Act, 1988"
+  },
+  {
+    "id": 38,
+    "category": "Civil Law",
+    "section": "MV Act Section 185",
+    "title": "Drunk Driving Rules",
+    "description": "Punishes driving under alcohol beyond permitted limits.",
+    "bail": null,
+    "reference": "Motor Vehicles Act, 1988"
+  },
+  {
+    "id": 39,
+    "category": "Civil Law",
+    "section": "Transfer of Property Act Section 54",
+    "title": "Sale of Immovable Property",
+    "description": "A property sale requires a registered document.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 40,
+    "category": "Civil Law",
+    "section": "TPA Section 105",
+    "title": "Lease of Property",
+    "description": "Defines leasing, rent, and tenancy rights.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+
+  {
+    "id": 41,
+    "category": "Fundamental Rights",
+    "section": "Article 14",
+    "title": "Right to Equality",
+    "description": "Everyone is equal before law and protected from discrimination.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 42,
+    "category": "Fundamental Rights",
+    "section": "Article 15",
+    "title": "No Discrimination",
+    "description": "Discrimination based on religion, race, caste, sex, or birth is prohibited.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 43,
+    "category": "Fundamental Rights",
+    "section": "Article 19(1)(a)",
+    "title": "Freedom of Speech",
+    "description": "Every citizen has the right to freely express opinions.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 44,
+    "category": "Fundamental Rights",
+    "section": "Article 19(1)(b)",
+    "title": "Right to Assembly",
+    "description": "Citizens can peacefully gather without arms.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 45,
+    "category": "Fundamental Rights",
+    "section": "Article 21",
+    "title": "Right to Life",
+    "description": "Every person has a right to live with dignity.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 46,
+    "category": "Fundamental Rights",
+    "section": "Article 22",
+    "title": "Protection from Illegal Arrest",
+    "description": "Arrested persons must be informed of charges and allowed legal help.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 47,
+    "category": "Fundamental Rights",
+    "section": "Article 23",
+    "title": "Prohibition of Trafficking",
+    "description": "Human trafficking and forced labor are banned.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 48,
+    "category": "Fundamental Rights",
+    "section": "Article 24",
+    "title": "Child Labor Protection",
+    "description": "Children cannot work in hazardous industries.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 49,
+    "category": "Fundamental Rights",
+    "section": "Article 25",
+    "title": "Freedom of Religion",
+    "description": "People are free to practice any religion.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 50,
+    "category": "Fundamental Rights",
+    "section": "Article 29",
+    "title": "Cultural Protection",
+    "description": "Communities can preserve their languages and culture.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 51,
+    "category": "Fundamental Rights",
+    "section": "Article 30",
+    "title": "Minority Education Rights",
+    "description": "Minorities can run their own educational institutions.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 52,
+    "category": "Fundamental Rights",
+    "section": "Article 32",
+    "title": "Right to Constitutional Remedies",
+    "description": "People can approach the Supreme Court to protect fundamental rights.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 53,
+    "category": "Fundamental Rights",
+    "section": "Article 39A",
+    "title": "Free Legal Aid",
+    "description": "Poor citizens must get free legal help.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 54,
+    "category": "Fundamental Rights",
+    "section": "Article 47",
+    "title": "Public Health Duty",
+    "description": "State must improve public health and nutrition.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 55,
+    "category": "Fundamental Rights",
+    "section": "Article 21A",
+    "title": "Right to Education",
+    "description": "Free and compulsory education for children aged 6–14.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 56,
+    "category": "Fundamental Rights",
+    "section": "Article 20",
+    "title": "Protection in Convictions",
+    "description": "No one can be punished twice for the same offence.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 57,
+    "category": "Fundamental Rights",
+    "section": "Article 16",
+    "title": "Equality in Public Employment",
+    "description": "Equal opportunity for all in government jobs.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 58,
+    "category": "Fundamental Rights",
+    "section": "Article 17",
+    "title": "Abolition of Untouchability",
+    "description": "Untouchability in any form is prohibited.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 59,
+    "category": "Fundamental Rights",
+    "section": "Article 18",
+    "title": "Abolition of Titles",
+    "description": "State shall not confer titles except for military or academic honors.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+  {
+    "id": 60,
+    "category": "Fundamental Rights",
+    "section": "Article 28",
+    "title": "Freedom from Religious Instruction",
+    "description": "No compulsory religious teaching in government schools.",
+    "bail": null,
+    "reference": "Constitution of India"
+  },
+
+  {
+    "id": 61,
+    "category": "Consumer Rights",
+    "section": "Consumer Protection Act Section 2(1)(d)",
+    "title": "Definition of Consumer",
+    "description": "Anyone who buys goods or services for use is a consumer.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 62,
+    "category": "Consumer Rights",
+    "section": "CPA Section 7",
+    "title": "Consumer Complaint",
+    "description": "Consumers can file complaints against unfair practices.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 63,
+    "category": "Consumer Rights",
+    "section": "CPA Section 17",
+    "title": "District Commission",
+    "description": "District commission handles complaints up to ₹1 crore.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 64,
+    "category": "Consumer Rights",
+    "section": "CPA Section 21",
+    "title": "State Commission",
+    "description": "Handles complaints above district level.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 65,
+    "category": "Consumer Rights",
+    "section": "CPA Section 34",
+    "title": "Right to Compensation",
+    "description": "Consumers can claim compensation for losses.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 66,
+    "category": "Consumer Rights",
+    "section": "CPA Section 35",
+    "title": "E-Filing",
+    "description": "Consumers can file complaints online.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 67,
+    "category": "Consumer Rights",
+    "section": "Legal Metrology Act Section 18",
+    "title": "MRP Protection",
+    "description": "No shopkeeper can sell goods above MRP.",
+    "bail": null,
+    "reference": "Legal Metrology Act, 2009"
+  },
+  {
+    "id": 68,
+    "category": "Consumer Rights",
+    "section": "Food Safety Act Section 26",
+    "title": "Safe Food",
+    "description": "Food sellers must ensure food is safe and hygienic.",
+    "bail": null,
+    "reference": "Food Safety and Standards Act, 2006"
+  },
+  {
+    "id": 69,
+    "category": "Consumer Rights",
+    "section": "FSSA Section 52",
+    "title": "False Food Claims",
+    "description": "False or misleading food claims are punishable.",
+    "bail": null,
+    "reference": "Food Safety and Standards Act, 2006"
+  },
+  {
+    "id": 70,
+    "category": "Consumer Rights",
+    "section": "CPA Section 39",
+    "title": "Refund and Replacement",
+    "description": "Consumers can seek refunds for defective products.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 71,
+    "category": "Consumer Rights",
+    "section": "RBI Guidelines",
+    "title": "Digital Payment Protection",
+    "description": "Banks must refund unauthorized digital transaction losses.",
+    "bail": null,
+    "reference": "RBI"
+  },
+  {
+    "id": 72,
+    "category": "Consumer Rights",
+    "section": "BIS Standards",
+    "title": "Quality Certification",
+    "description": "Products should follow BIS quality standards.",
+    "bail": null,
+    "reference": "BIS"
+  },
+  {
+    "id": 73,
+    "category": "Consumer Rights",
+    "section": "Telecom Act Rules",
+    "title": "Telecom Consumer Rights",
+    "description": "Consumers can complain about network or billing issues.",
+    "bail": null,
+    "reference": "Telecom Regulatory Authority (TRAI)"
+  },
+  {
+    "id": 74,
+    "category": "Consumer Rights",
+    "section": "CPA Section 9",
+    "title": "Protection from Unfair Trade",
+    "description": "Shops cannot cheat or mislead customers.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 75,
+    "category": "Consumer Rights",
+    "section": "CPA Section 2(47)",
+    "title": "Unfair Contract Terms",
+    "description": "Unreasonable contract terms can be struck down.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 76,
+    "category": "Consumer Rights",
+    "section": "Drugs and Cosmetics Act Section 18",
+    "title": "Ban on Fake Medicines",
+    "description": "Selling fake or expired medicines is punishable.",
+    "bail": null,
+    "reference": "Drugs and Cosmetics Act, 1940"
+  },
+  {
+    "id": 77,
+    "category": "Consumer Rights",
+    "section": "CPA Section 2(11)",
+    "title": "Product Liability",
+    "description": "Manufacturers are responsible for faulty products.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 78,
+    "category": "Consumer Rights",
+    "section": "CPA Section 94",
+    "title": "E-Commerce Rules",
+    "description": "Online sellers must display full product details.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 79,
+    "category": "Consumer Rights",
+    "section": "CPA Section 50",
+    "title": "Liability of Service Providers",
+    "description": "Service providers must ensure quality service.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+  {
+    "id": 80,
+    "category": "Consumer Rights",
+    "section": "CPA Section 90",
+    "title": "Penalty for Misleading Ads",
+    "description": "Celebrities and companies can be penalized for misleading ads.",
+    "bail": null,
+    "reference": "Consumer Protection Act, 2019"
+  },
+
+  {
+    "id": 81,
+    "category": "Property Law",
+    "section": "TPA Section 5",
+    "title": "Transfer of Property",
+    "description": "Defines how property can be legally transferred.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 82,
+    "category": "Property Law",
+    "section": "TPA Section 54",
+    "title": "Sale of Immovable Property",
+    "description": "Sale of land requires a registered deed.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 83,
+    "category": "Property Law",
+    "section": "TPA Section 52",
+    "title": "Lis Pendens",
+    "description": "Property cannot be sold while a court case about it is ongoing.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 84,
+    "category": "Property Law",
+    "section": "TPA Section 105",
+    "title": "Lease",
+    "description": "Explains rent, tenancy, and lease agreements.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 85,
+    "category": "Property Law",
+    "section": "TPA Section 108",
+    "title": "Tenant Rights",
+    "description": "Defines rights and duties of tenants and landlords.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 86,
+    "category": "Property Law",
+    "section": "Registration Act Section 17",
+    "title": "Compulsory Registration",
+    "description": "Property documents must be registered to be valid.",
+    "bail": null,
+    "reference": "Registration Act, 1908"
+  },
+  {
+    "id": 87,
+    "category": "Property Law",
+    "section": "Stamp Act Section 3",
+    "title": "Stamp Duty",
+    "description": "Property documents require stamp duty payment.",
+    "bail": null,
+    "reference": "Indian Stamp Act, 1899"
+  },
+  {
+    "id": 88,
+    "category": "Property Law",
+    "section": "Hindu Succession Act Section 6",
+    "title": "Coparcenary Rights",
+    "description": "Daughters have equal property rights.",
+    "bail": null,
+    "reference": "Hindu Succession Act, 1956"
+  },
+  {
+    "id": 89,
+    "category": "Property Law",
+    "section": "Benami Act Section 3",
+    "title": "Ban on Benami Property",
+    "description": "Buying property in someone else's name to hide identity is illegal.",
+    "bail": null,
+    "reference": "Benami Transactions Act, 1988"
+  },
+  {
+    "id": 90,
+    "category": "Property Law",
+    "section": "Land Acquisition Act Section 24",
+    "title": "Compensation for Land Acquisition",
+    "description": "Owners are entitled to fair market compensation.",
+    "bail": null,
+    "reference": "Land Acquisition Act, 2013"
+  },
+  {
+    "id": 91,
+    "category": "Property Law",
+    "section": "RERA Section 3",
+    "title": "Project Registration",
+    "description": "Builders must register real estate projects.",
+    "bail": null,
+    "reference": "RERA, 2016"
+  },
+  {
+    "id": 92,
+    "category": "Property Law",
+    "section": "RERA Section 11",
+    "title": "Builder Duties",
+    "description": "Builders must provide clear property details.",
+    "bail": null,
+    "reference": "RERA, 2016"
+  },
+  {
+    "id": 93,
+    "category": "Property Law",
+    "section": "RERA Section 18",
+    "title": "Refund for Delay",
+    "description": "Buyers can get refunds if possession is delayed.",
+    "bail": null,
+    "reference": "RERA, 2016"
+  },
+  {
+    "id": 94,
+    "category": "Property Law",
+    "section": "CPC Section 5",
+    "title": "Possession Suit",
+    "description": "People can sue to recover property possession.",
+    "bail": null,
+    "reference": "CPC, 1908"
+  },
+  {
+    "id": 95,
+    "category": "Property Law",
+    "section": "Partition Act Section 9",
+    "title": "Division of Property",
+    "description": "Co-owners can seek court partition.",
+    "bail": null,
+    "reference": "Partition Act, 1893"
+  },
+  {
+    "id": 96,
+    "category": "Property Law",
+    "section": "TPA Section 43",
+    "title": "Feed the Grant",
+    "description": "Invalid property sales may become valid later.",
+    "bail": null,
+    "reference": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": 97,
+    "category": "Property Law",
+    "section": "Rent Control Act",
+    "title": "Rent Regulation",
+    "description": "Regulates eviction and rent increases.",
+    "bail": null,
+    "reference": "Rent Control Acts (State)"
+  },
+  {
+    "id": 98,
+    "category": "Property Law",
+    "section": "RERA Section 19",
+    "title": "Homebuyer Rights",
+    "description": "Buyers can demand possession, refund, or compensation.",
+    "bail": null,
+    "reference": "RERA, 2016"
+  },
+  {
+    "id": 99,
+    "category": "Property Law",
+    "section": "Urban Land Ceiling Act",
+    "title": "Urban Land Limits",
+    "description": "Restricts excessive land holding in cities.",
+    "bail": null,
+    "reference": "Urban Land Ceiling Act"
+  },
+  {
+    "id": 100,
+    "category": "Property Law",
+    "section": "Forest Rights Act Section 3",
+    "title": "Forest Dweller Property Rights",
+    "description": "Recognizes land rights of traditional forest dwellers.",
+    "bail": null,
+    "reference": "Forest Rights Act, 2006"
+  },
+
+  {
+    "id": 101,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 66",
+    "title": "Computer-Related Offences",
+    "description": "Hacking or damaging computer systems is punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 102,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 66C",
+    "title": "Identity Theft",
+    "description": "Using someone’s digital identity without permission is illegal.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 103,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 66D",
+    "title": "Online Impersonation",
+    "description": "Cheating someone via fake identity online is punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 104,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 67",
+    "title": "Obscene Online Content",
+    "description": "Publishing obscene content online is punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 105,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 67A",
+    "title": "Sexually Explicit Content",
+    "description": "Uploading sexually explicit content is illegal.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 106,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 69",
+    "title": "Government Monitoring",
+    "description": "Government may intercept data under lawful conditions.",
+    "bail": null,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 107,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 43",
+    "title": "Unauthorized Access",
+    "description": "Accessing systems without permission leads to penalties.",
+    "bail": null,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 108,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 43A",
+    "title": "Data Protection",
+    "description": "Companies must protect user data.",
+    "bail": null,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 109,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 71",
+    "title": "False Digital Certificates",
+    "description": "Providing false information for digital certificates is punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 110,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 72",
+    "title": "Breach of Confidentiality",
+    "description": "Revealing private information without consent is illegal.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 111,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 72A",
+    "title": "Data Misuse by Service Providers",
+    "description": "Service providers cannot misuse stored data.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 112,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 66F",
+    "title": "Cyber Terrorism",
+    "description": "Acts threatening national security using computers are punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 113,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 67B",
+    "title": "Child Sexual Content",
+    "description": "Uploading child sexual content online is strictly punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 114,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 65",
+    "title": "Tampering Computer Source Code",
+    "description": "Altering system source code illegally is punishable.",
+    "bail": false,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 115,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 75",
+    "title": "Extraterritorial Jurisdiction",
+    "description": "Cybercrime outside India affecting India can be penalized.",
+    "bail": null,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 116,
+    "category": "Cyber Laws",
+    "section": "IT Act Section 85",
+    "title": "Corporate Liability",
+    "description": "Companies are responsible for cyber offences committed by employees.",
+    "bail": null,
+    "reference": "Information Technology Act, 2000"
+  },
+  {
+    "id": 117,
+    "category": "Cyber Laws",
+    "section": "IT Rules 2021",
+    "title": "Social Media Compliance",
+    "description": "Large platforms must follow strict data and grievance rules.",
+    "bail": null,
+    "reference": "IT Rules, 2021"
+  },
+  {
+    "id": 118,
+    "category": "Cyber Laws",
+    "section": "IT Rules 2021",
+    "title": "Digital Media Rules",
+    "description": "Online publishers must follow code of ethics.",
+    "bail": null,
+    "reference": "IT Rules, 2021"
+  },
+  {
+    "id": 119,
+    "category": "Cyber Laws",
+    "section": "RBI Cybersecurity Guidelines",
+    "title": "Online Banking Security",
+    "description": "Banks must protect users from cyber fraud.",
+    "bail": null,
+    "reference": "RBI"
+  },
+  {
+    "id": 120,
+    "category": "Cyber Laws",
+    "section": "CERT-In Guidelines",
+    "title": "Cyber Incident Reporting",
+    "description": "Companies must report major cyber attacks to CERT-In.",
+    "bail": null,
+    "reference": "CERT-In"
+  }
+]

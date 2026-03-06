@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "FIR Template",
+    "fileName": "fir-templates.docx",
+    "description": "Basic FIR complaint format with complainant and accused details."
+  },
+  {
+    "id": 2,
+    "name": "Rent Agreement Template",
+    "fileName": "rent-agreement.docx",
+    "description": "Standard rental agreement between landlord and tenant."
+  },
+  {
+    "id": 3,
+    "name": "Leave & License Agreement",
+    "fileName": "leave-license-agreement.docx",
+    "description": "Agreement for temporary use of property under license terms."
+  }
+]
